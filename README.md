@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Abhisek_Yadav
-- 👀 I’m interested in BlockChain and all the things related to crypto.
-- 🌱 I’m currently learning BlockChain
+- 👀 I’m interested in BlockChain and all the things related to Crypto,DEFI,NFT etc.
 - � Reach me at: imabhisekyadav@gmail.com
 
 <!---
